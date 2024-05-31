@@ -1,0 +1,1 @@
+The file named platformini and main.cpp are the code for the sensor u need to create platformio file first in the VSCode and then u can replace those file and u also need to configure some stuff to before running it
